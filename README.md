@@ -10,16 +10,3 @@ This is a simple Notes Taking application built using HTML, CSS, and JavaScript.
 - **Persistent Storage**: Notes are saved in the browser's local storage and are reloaded when the page is refreshed.
 
 ## Live : https://poojithreddy28.github.io/notes-taking/
-
-## Getting Started
-
-### Prerequisites
-
-To run this application, you need a modern web browser with JavaScript enabled.
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/poojithreddy28/notes-taking-app.git
