@@ -9,6 +9,8 @@ This is a simple Notes Taking application built using HTML, CSS, and JavaScript.
 - **Delete Note**: Remove a note using the delete icon.
 - **Persistent Storage**: Notes are saved in the browser's local storage and are reloaded when the page is refreshed.
 
+## Live : https://poojithreddy28.github.io/notes-taking/
+
 ## Getting Started
 
 ### Prerequisites
