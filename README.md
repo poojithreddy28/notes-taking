@@ -1,4 +1,4 @@
-# Notes Taking Application
+# Notes Taking Application 📝
 
 This is a simple Notes Taking application built using HTML, CSS, and JavaScript. The application allows users to create, save, and delete notes. Notes are stored in the browser's local storage, ensuring that they persist even after the browser is closed or the page is refreshed.
 
